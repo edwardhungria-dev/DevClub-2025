@@ -1,0 +1,32 @@
+
+/* OBRIGATÓRIO PONTO E VÍRGULA NO CSS*/
+
+* {
+
+}
+
+
+
+
+
+
+#titulo {
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h1 {
+Color:red;
+background: black;
+}
+
+p {
+color: blue;
+font-size: 20px;    
+}
+
+button {
+background: green;
+border-color: darkgreen;    
+}
